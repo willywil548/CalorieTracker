@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "CalorieTracker", "CalorieTracker\CalorieTracker.jsproj", "{64AA4C78-896D-49C8-AE07-490C7014B4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Android.ActiveCfg = Debug|Android
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Android.Build.0 = Debug|Android
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Android.Deploy.0 = Debug|Android
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|iOS.ActiveCfg = Debug|iOS
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|iOS.Build.0 = Debug|iOS
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|iOS.Deploy.0 = Debug|iOS
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Android.ActiveCfg = Release|Android
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Android.Build.0 = Release|Android
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Android.Deploy.0 = Release|Android
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|iOS.ActiveCfg = Release|iOS
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|iOS.Build.0 = Release|iOS
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|iOS.Deploy.0 = Release|iOS
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{64AA4C78-896D-49C8-AE07-490C7014B4EE}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04BE6226-F483-462C-9D27-CB3793E63C01}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://robertpwwilson.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CalorieTracker\\CalorieTracker.jsproj
+		SccProjectName1 = CalorieTracker
+		SccLocalPath1 = CalorieTracker
+	EndGlobalSection
+EndGlobal
